@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:moves.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T13:38:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "board.cpp",
+              "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.cpp",
+              "RelativeDocumentMoniker": "board.cpp",
+              "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.cpp",
+              "RelativeToolTip": "board.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T13:26:05.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moves.hpp",
+              "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.hpp",
+              "RelativeDocumentMoniker": "moves.hpp",
+              "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.hpp",
+              "RelativeToolTip": "moves.hpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T13:20:25.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "board.hpp",
+              "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.hpp",
+              "RelativeDocumentMoniker": "board.hpp",
+              "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.hpp",
+              "RelativeToolTip": "board.hpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T12:56:19.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
