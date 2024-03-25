@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:moves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:moves.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\piece.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:piece.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509D3557-0419-4A66-8E75-33BC7F69AC75}|ma ze cpp.vcxproj|solutionrelative:board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +43,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "moves.cpp",
+              "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.cpp",
+              "RelativeDocumentMoniker": "moves.cpp",
+              "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.cpp",
+              "RelativeToolTip": "moves.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T14:18:17.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "piece.hpp",
+              "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\piece.hpp",
+              "RelativeDocumentMoniker": "piece.hpp",
+              "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\piece.hpp",
+              "RelativeToolTip": "piece.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T14:13:38.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "piece.cpp",
+              "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\piece.cpp",
+              "RelativeDocumentMoniker": "piece.cpp",
+              "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\piece.cpp",
+              "RelativeToolTip": "piece.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T14:13:35.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-25T13:38:03.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "board.cpp",
               "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.cpp",
               "RelativeDocumentMoniker": "board.cpp",
@@ -56,26 +107,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "moves.hpp",
               "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.hpp",
               "RelativeDocumentMoniker": "moves.hpp",
               "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\moves.hpp",
               "RelativeToolTip": "moves.hpp",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-25T13:20:25.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "board.hpp",
               "DocumentMoniker": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.hpp",
               "RelativeDocumentMoniker": "board.hpp",
               "ToolTip": "C:\\Users\\mineb\\source\\repos\\ma ze cpp\\board.hpp",
               "RelativeToolTip": "board.hpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-25T12:56:19.135Z",
               "EditorCaption": ""

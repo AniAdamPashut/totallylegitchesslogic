@@ -47,3 +47,12 @@ bool is_legal_rook_move(
 ) {
 	return sRank == eRank || sFile == eFile;
 }
+
+std::function<bool(uint8_t, uint8_t, uint8_t, uint8_t)> move_map[] = {
+	is_legal_rook_move,
+	is_legal_queen_move,
+	is_legal_king_move,
+	is_legal_knight_move,
+	is_legal_bishop_move,
+	is_legal_pawn_move,
+};

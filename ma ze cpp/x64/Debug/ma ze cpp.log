@@ -1,19 +1,5 @@
 ﻿  board.cpp
-  main.cpp
+  moves.cpp
   piece.cpp
   Generating Code...
-C:\Users\mineb\source\repos\ma ze cpp\board.cpp(69,1): warning C4715: 'Board::Move': not all control paths return a value
-piece.obj : error LNK2005: "class std::function<bool __cdecl(unsigned char,unsigned char,unsigned char,unsigned char)> * map" (?map@@3PAV?$function@$$A6A_NEEEE@Z@std@@A) already defined in board.obj
-board.obj : error LNK2019: unresolved external symbol "bool __cdecl is_legal_pawn_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_pawn_move@@YA_NEEEE@Z) referenced in function "void __cdecl `dynamic initializer for 'map''(void)" (??__Emap@@YAXXZ)
-piece.obj : error LNK2001: unresolved external symbol "bool __cdecl is_legal_pawn_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_pawn_move@@YA_NEEEE@Z)
-board.obj : error LNK2019: unresolved external symbol "bool __cdecl is_legal_knight_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_knight_move@@YA_NEEEE@Z) referenced in function "void __cdecl `dynamic initializer for 'map''(void)" (??__Emap@@YAXXZ)
-piece.obj : error LNK2001: unresolved external symbol "bool __cdecl is_legal_knight_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_knight_move@@YA_NEEEE@Z)
-board.obj : error LNK2019: unresolved external symbol "bool __cdecl is_legal_king_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_king_move@@YA_NEEEE@Z) referenced in function "void __cdecl `dynamic initializer for 'map''(void)" (??__Emap@@YAXXZ)
-piece.obj : error LNK2001: unresolved external symbol "bool __cdecl is_legal_king_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_king_move@@YA_NEEEE@Z)
-board.obj : error LNK2019: unresolved external symbol "bool __cdecl is_legal_queen_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_queen_move@@YA_NEEEE@Z) referenced in function "void __cdecl `dynamic initializer for 'map''(void)" (??__Emap@@YAXXZ)
-piece.obj : error LNK2001: unresolved external symbol "bool __cdecl is_legal_queen_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_queen_move@@YA_NEEEE@Z)
-board.obj : error LNK2019: unresolved external symbol "bool __cdecl is_legal_bishop_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_bishop_move@@YA_NEEEE@Z) referenced in function "void __cdecl `dynamic initializer for 'map''(void)" (??__Emap@@YAXXZ)
-piece.obj : error LNK2001: unresolved external symbol "bool __cdecl is_legal_bishop_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_bishop_move@@YA_NEEEE@Z)
-board.obj : error LNK2019: unresolved external symbol "bool __cdecl is_legal_rook_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_rook_move@@YA_NEEEE@Z) referenced in function "void __cdecl `dynamic initializer for 'map''(void)" (??__Emap@@YAXXZ)
-piece.obj : error LNK2001: unresolved external symbol "bool __cdecl is_legal_rook_move(unsigned char,unsigned char,unsigned char,unsigned char)" (?is_legal_rook_move@@YA_NEEEE@Z)
-C:\Users\mineb\source\repos\ma ze cpp\x64\Debug\ma ze cpp.exe : fatal error LNK1120: 6 unresolved externals
+  ma ze cpp.vcxproj -> C:\Users\mineb\source\repos\ma ze cpp\x64\Debug\ma ze cpp.exe
